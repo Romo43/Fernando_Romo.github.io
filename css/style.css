@@ -18,9 +18,11 @@ h1,
 h2,
 h3,
 h4,
-h5,
 h6 {
   color: #ffffff;
+}
+h5{
+  color: #4e4e4e;
 }
 
 a {
@@ -221,8 +223,8 @@ a:hover {
 }
 
 .socials .ico-circle:hover {
-  background-color: service-ic;
   color: #fff;
+  background-color: rgb(4, 128, 182);
   box-shadow: 0 0 0 3px #cde1f8;
   transition: all 500ms ease;
 }
